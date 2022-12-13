@@ -1,0 +1,67 @@
+
+.p__Cormorant{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 18px;
+  }
+  
+  .p__Sans{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+  }
+  .box__divs input{
+    margin-bottom: 40px;
+  }
+  
+  .h__Cormorant{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 25px;
+  }
+  
+  .h__Sans{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+  }
+  
+  .section__padding{
+    padding: 2rem 7%;
+  }
+
+  .box__divs{
+    /* display: flex; */
+    /* background-color: red; */
+    /* align-items: center; */
+  }
+
+  .box__divs input{
+    width: 300px;
+    height: 40px;
+    /* margin-left: 30px; */
+    border: 2px solid white;
+    border-radius: 3px;
+  }
+
+  .landing__Main{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .landing__Page__Box{
+    background-color: red;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 7px;
+  }
+
+  .landing__Page__Box button{
+    text-align: center;
+    /* margin-left: 30%; */
+    margin-top: 30px;
+    width: 100%;
+  }
